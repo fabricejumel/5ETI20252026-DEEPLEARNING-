@@ -1,4 +1,4 @@
-# 5ETI20242025-DEEPLEARNING-
+# 5ETI20252026-DEEPLEARNING-
 
 
 ## Module DEEPLEARNING
@@ -10,7 +10,7 @@
 > Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome. Dans le cas des binomes, les 2 comptes doivent contribuer de manière équitable ( au sens git)
 
 > [!CAUTION]
-> Le rendu doit être finalisé pour le mercredi 8 janvier 2025 23H00 
+> Le rendu doit être finalisé pour le lundi 3 novembre  2025 23H00 
 
 Si une partie de votre travail ce fait en local, il est recommandé de travailler dans un environnement virtuel (si fait en local et pas sur google collab)
 
