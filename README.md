@@ -18,7 +18,7 @@ Si une partie de votre travail ce fait en local, il est recommandé de travaille
 # Creation initiale  du virtual env
 python -m venv venv_deep2025
 # Activation du virtual env, a refaire a chaque ouverture d'un terminal
-source venv_deep2024/bin/activate
+source venv_deep2025/bin/activate
 #installation des requirements (à faire une fois avec le virtual env activé)
 pip install -r requirements.txt
 ````
