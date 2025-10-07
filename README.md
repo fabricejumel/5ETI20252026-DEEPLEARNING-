@@ -7,7 +7,7 @@
 
 
 > [!IMPORTANT]
-> Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome ou binome. Dans le cas des binomes, les 2 comptes doivent contribuer de manière équitable ( au sens git)
+> Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome . 
 
 > [!CAUTION]
 > Le rendu doit être finalisé pour le lundi 3 novembre  2025 23H00 
