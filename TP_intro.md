@@ -20,3 +20,5 @@ Vous pourrez comme Rendu du TP_intro une synthese de ce que vous avez appris et 
 [Intro au CNN](https://medium.com/betomorrow/les-r%C3%A9seaux-de-neurones-de-convolutions-pour-les-n%C3%A9ophytes-2b36a59cf648)
 
 [DEMO MNIST](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+
+[DEMO CIFAR10](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
