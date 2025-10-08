@@ -7,7 +7,7 @@
 
 
 > [!IMPORTANT]
-> Le rendu se fera  sous forme d'un git sous gitlab qui sera généré une fois les groupes fixés. Le rendu se fera en monome . 
+> Le rendu se fera  sous forme d'un git sous gitlab en monome . 
 
 > [!CAUTION]
 > Le rendu doit être finalisé pour le lundi 3 novembre  2025 23H00 
