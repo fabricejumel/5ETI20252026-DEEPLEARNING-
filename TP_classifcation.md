@@ -31,14 +31,16 @@ L'objectif principal est de tester les réseaux de neurones que je vous propose 
 
 6. **Explicabilité :** Une derniere partie s'interessera à l'explicabilité des résultats , en utilisant par exemple GradCAM++ implémenté sous [tf_keras_vis](https://keisen.github.io/tf-keras-vis-docs/examples/attentions.html#GradCAM++). Vous justifirez ou critiquerez mon choix. Proposez autres choses si ca vous semble plu pertinent . Dans tous les cas, on appliquera au modele et aux images utilisés dans le notebook.
 
-7. **Speciaisation des couches (BONUS)** On aimerait voir comment se sont spécialiser les couches ? Comment représenter cela ? Proposez une solution pour le voir
+7. **Specialisation des couches (BONUS)** On aimerait voir comment se sont spécialiser les couches ? Comment représenter cela ? Proposez une solution pour le voir
    
 8.  **Application sur d'autres dataset**  Tester vos reseaux sur d'autres dataset existants en procédant à un nouvel apprentissage (on peut par exemple tester sur la datset MNIST , MNIST Fashion, essayer de trouver 2 autres dataset) Afficher les résultats obtenus (de manière synthétiques  et Montrer si la spécilisation a été différentes)
 
 9. **Enrichissement du dataset CIFAR10** Créer 4 images par classe du CIFAR10 pour enrichier le dataset CIFAR utilisé au début (Montrer precismeent comment vous avez procéder et quelle était l'image de départ, quelle sont les resultats obtenus avec le reseau precedemment entrainé ? Sont ils satisfaisant ? Quelle est la taille d'origine du dataset CIFAR10 ?
 
-10. **Enrichissement du dataset Fashion MNIST** Même questions mais avec  juste 2 images pour 3 classes.
+10. **Enrichissement du dataset Fashion MNIST** Même questions mais avec  juste 2 images pour 3 classes. Bien entendu tester des modèles après les avoir crért ... 
 
 ## Rendu
-- Le rendu doit être un unique fichier Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet . L'avantage du format ipynb et qu'il contient le résulat de votre derniere execution avant sauvegarde mais il peut être aussi complétement regenerer avec les codes pythons
+- Le rendu doit être sous gitlab
+- L'idéal est de d'inclure en plus des markdowns habituels un ensmeble de fichiers Jupyter Notebook, hébergé sur Gitlab est associé à votre rendu complet .
+- L'avantage du format ipynb et qu'il contient le résulat de votre derniere execution avant sauvegarde mais il peut être aussi complétement regenerer avec les codes pythons
 - Assurez-vous que votre notebook est bien documenté et que chaque section est clairement indiquée. Vous pouvez rédiger en francais ou en anglais 
