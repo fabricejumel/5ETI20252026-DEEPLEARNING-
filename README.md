@@ -34,7 +34,7 @@ TP 0 [TP Intro ](TP_intro.md)
 
 TP 1 [TP classification et CNN ](TP_classifcation.md)
 
-TP 2 [TP detection avancee ]() "A venir"
+TP 2 [TP detection avancee ](TP_detection.md) 
 
 TP 3 [TP LLM ]() "A venir"
 
