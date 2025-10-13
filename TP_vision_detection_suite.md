@@ -71,5 +71,7 @@ Regardez ce que propose https://kitt.tools/ai/image-recognition
 5.d Quelles sont les classes reconnues ?
 
 5.e À quoi d'autre peuvent servir ces modèles ?
+
+5.f Peut-on utiliser ces modèles pour générer des bounding boxes comme nous l’avions fait précédemment ? Si oui, comment procéder ?
  
  
