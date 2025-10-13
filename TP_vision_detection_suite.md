@@ -29,7 +29,7 @@ You must restart the runtime in order to use newly installed versions.
 
  2.c Quelles sont les structures des modèles de réseaux sous-jacents ?
 
- 2.d Tester sur une douzaine d’images de votre choix (Essayez d'utiliser (ou de générer)  des images contenant le plus de classes reconnues possible) et faites un tableau comparatif.
+ 2.d Tester sur une demi douzaine d'images de votre choix (Essayez d'utiliser (ou de générer)  des images contenant le plus de classes reconnues possible) et faites un tableau comparatif (Vous pourrez vous limitez à un sous ensemble des choix proposés)
 
  ## 3. Question 3
 
