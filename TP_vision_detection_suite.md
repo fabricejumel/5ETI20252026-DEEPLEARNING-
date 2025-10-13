@@ -9,7 +9,7 @@
 
 ## 2. Question 2
 
-On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_detection.ipynb). 
+On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_détection.ipynb). 
 > [!TIP]
 >Commencer par changer le modele d'exécution pour utiliser un GPU, sinon vous risquez de perdre du temps
 
@@ -30,13 +30,13 @@ You must restart the runtime in order to use newly installed versions.
 
  2.c Quelles sont les structures des modèles de réseaux sous-jacents ?
 
- 2.d Tester sur une demi douzaine d'images de votre choix (Essayez d'utiliser (ou de générer)  des images contenant le plus de classes reconnues possible) et faites un tableau comparatif (Vous pourrez vous limitez à un sous ensemble des choix proposés)
+ 2.d Tester sur une demi-douzaine d'images de votre choix (Essayez d'utiliser (ou de générer)  des images contenant le plus de classes reconnues possible) et faites un tableau comparatif (Vous pourrez vous limitez à un sous ensemble des choix proposés)
 
  ## 3. Question 3
 
- 3.a À quoi servait  TensorFlow Hub? Quelles sont ces remplacant ? ,
+ 3.a À quoi servait  TensorFlow Hub? Quelles sont ses remplacant ? ,
 
- 3.b Combien de réseaux de détection d'objets trouve-t-on surces différentes plateformes 
+ 3.b Combien de réseaux de détection d'objets trouve-t-on sur ces différentes plateformes 
 
  3.c Quelles sont les architectures de ces réseaux ?
 
@@ -47,9 +47,9 @@ You must restart the runtime in order to use newly installed versions.
  ## 4. Question 4
  
 
-4.a Quel est le format d'entrée d'un réseau de détection ? (Donner un exemple précis sur le reseau de votre choix)
+4.a Quel est le format d'entrée d'un réseau de détection ? (Donner un exemple précis sur le réseau de votre choix)
 
-4.b Comment peut-on transformer une architecture de classifieur en une architecture de détecteur ? (donner un exemple sur le reseau de votre choix)
+4.b Comment peut-on transformer une architecture de classifieur en une architecture de détecteur ? (donner un exemple sur le  de votre choix)
 
 4.c À quoi ressemblerait, dans ce cas, la phase d'apprentissage ?
 
