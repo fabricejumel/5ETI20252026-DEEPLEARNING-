@@ -33,15 +33,15 @@ You must restart the runtime in order to use newly installed versions.
 
  ## 3. Question 3
 
- 3.a À quoi sert TensorFlow Hub (ou son remplaçant) , et existe-t-il des solutions équivalentes ?
+ 3.a À quoi servait  TensorFlow Hub? Quelles sont ces remplacant ? ,
 
- 3.b Combien de réseaux de détection d'objets trouve-t-on sur TensorFlow Hub ?
+ 3.b Combien de réseaux de détection d'objets trouve-t-on surces différentes plateformes 
 
  3.c Quelles sont les architectures de ces réseaux ?
 
  3.d Quelles sont les classes reconnues ?
 
- 3.e Y a-t-il des exemples pour gérer une phase d’apprentissage ?
+ 3.e Y a-t-il des exemples pour gérer une phase d’apprentissage ou de finetuning ?
 
  ## 4. Question 4
  
@@ -56,4 +56,19 @@ You must restart the runtime in order to use newly installed versions.
 
 4.e Dans ce cas, doit-on procéder à un *fine-tuning* ? Si oui, comment procéder et quel serait le format du jeu de données ?
 
-4.f (Bonus) Essayer de créer un detecteur à partir du réseau vanilla CNN utilisé dans la partie Classification
+4.f (Bonus à ne pas faire en priorité !! ) Essayer de créer un detecteur à partir du réseau vanilla CNN utilisé dans la partie Classification
+
+ ## 5 Question 5
+
+5.a Il existe d'autres solutions pour faire de la détection (voire plus) sur des images.
+Regardez ce que propose https://kitt.tools/ai/image-recognition
+
+5.b Quelles sont les solutions mises en œuvre ?
+
+5.c Quelles sont les architectures sous-jacentes ?
+
+5.d Quelles sont les classes reconnues ?
+
+5.e À quoi d'autre peuvent servir ces modèles ?
+ 
+ 
