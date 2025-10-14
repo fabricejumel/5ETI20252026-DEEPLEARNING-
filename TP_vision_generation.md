@@ -8,13 +8,6 @@
 On s’intéresse au réseau "GAN"  suivant :  
 [![Open GAN2.0 in  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/2_0_GAN_fashion_mnist_CPE.ipynb) 
 
-> [!CAUTION]
-> En cas de problème  d'excecution sur la fin,  utilisez une version ulterieure de tensorflow
->!pip install tensorflow==2.12.0 (à faire section code notebook)
-> et vous aurez sans doute  à relancer la machine d'execution pour la prise en compte
-
-> [!NOTE]  
->Il arrive souvent de devoir rétrograder la version de NumPy, de TensorFlow ou d'autres bibliothèques pour pouvoir exécuter des exemples datant de quelques années. Les exemples les plus récents peuvent parfois ne fonctionner qu'avec les dernières cartes graphiques, ce qui peut rendre l'utilisation d'anciens exemples plus pertinente.
 
 **1.a** Mettre en œuvre le réseau.
 
@@ -66,7 +59,7 @@ Même type de questions pour le code suivant :
 
 ## Partie 3
 
-**3.a** Comment fonctionne stable diffuison ? Comment a t il était entrainé 
+**3.a** Comment fonctionne stable diffusion ? Comment a t il était entrainé 
 
 **3.b** Essayer de le mettre en oeuvre 
 
@@ -76,6 +69,8 @@ Même type de questions pour le code suivant :
 **3.c** Comment peut on le fine-tuner ?
 
 **3.c** Proposer un "ipynb" simple et "pertinent" de mise en oeuvre 
+
+**3.d** Comparer avec les 2 approches précédentes
 
 
 
