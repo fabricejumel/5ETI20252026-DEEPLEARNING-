@@ -36,8 +36,9 @@ On s’intéresse au réseau suivant :
 
 ## Partie 2
 
-Même type de questions pour le code suivant :  
-[CVAE sur Google Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
+Même type de questions pour le code suivant : 
+[![CVAE sur Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/CVAE_CPE.ipynb) 
+
 
 **2.a** Mettre en œuvre le réseau.
 
