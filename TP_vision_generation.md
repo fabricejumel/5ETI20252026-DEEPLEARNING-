@@ -3,7 +3,7 @@
 
 ---
 
-## Question 1
+## Partie 1
 
 On s’intéresse au réseau suivant :  
 [![Open GAN2.0 in  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/2_0_GAN_fashion_mnist_CPE.ipynb) 
@@ -34,27 +34,40 @@ On s’intéresse au réseau suivant :
 
 ---
 
+## Partie 2
+
 Même type de questions pour le code suivant :  
 [CVAE sur Google Colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
 
-**1.a** Mettre en œuvre le réseau.
+**2.a** Mettre en œuvre le réseau.
 
-**1.b** Quel est son objectif ?
+**2.b** Quel est son objectif ?
 
-**1.c** Que pensez-vous des résultats ?
+**2.c** Que pensez-vous des résultats ?
 
-**1.d** Quel est le nom d’une telle approche ? Explicitez le sens de l’architecture.
+**2.d** Quel est le nom d’une telle approche ? Explicitez le sens de l’architecture.
 
-**1.e** Changer le dataset MNIST digits par le MNIST Fashion.
+**2.e** Changer le dataset MNIST digits par le MNIST Fashion.
 
-**1.f** À quel moment est utilisé le dataset ?
+**2.f** À quel moment est utilisé le dataset ?
 
-**1.g** Proposez un affichage plus pertinent des résultats 
+**2.g** Proposez un affichage plus pertinent des résultats 
 
-**1.h** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
+**2.h** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
 
-**1.i** Y a-t-il une différence entre les deux approches ?
+**2.i** Y a-t-il une différence entre les deux approches ?
 
-**1.h** Essayer d'appliquer sur le CIFAR10
+**2.j** Essayer d'appliquer sur le CIFAR10
 
-(BONUS) **1.j** Essayer d’utiliser le dataset Pokémon disponible sur Kaggle pour générer des Pokémon à la fois sur l'appriche VAE et l'approche GAN
+(BONUS) **2.k** Essayer d’utiliser le dataset Pokémon disponible sur Kaggle pour générer des Pokémon à la fois sur l'approche VAE et/ou l'approche 
+
+
+## Partie 3
+
+**3.a** Comment foncitonne stable diffuison ? Comment a t il était entrainé 
+
+**3.b** Essayer de le mettre en oeuvre 
+
+**3.c** Comment peut on le fine-tuner ?
+
+
