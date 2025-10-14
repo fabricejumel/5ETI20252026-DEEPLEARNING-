@@ -36,9 +36,9 @@ TP 1 [TP classification et CNN ](TP_classifcation.md)
 
 TP 2 [TP detection avancee ](TP_vision_detection_suite.md) 
 
-TP 3 [TP LLM ]() "A venir"
+TP 3  [TP GAN ](TP_vision_generation.md)
 
-TP 4  [TP GAN ]() "A venir"
+TP 4 [TP LLM ]() "A venir" 
 
 
 
