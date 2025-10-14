@@ -5,7 +5,7 @@
 
 ## Partie 1
 
-On s’intéresse au réseau suivant :  
+On s’intéresse au réseau "GAN"  suivant :  
 [![Open GAN2.0 in  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/2_0_GAN_fashion_mnist_CPE.ipynb) 
 
 > [!CAUTION]
@@ -37,6 +37,7 @@ On s’intéresse au réseau suivant :
 ## Partie 2
 
 Même type de questions pour le code suivant : 
+
 [![CVAE sur Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/CVAE_CPE.ipynb) 
 
 
@@ -69,6 +70,12 @@ Même type de questions pour le code suivant :
 
 **3.b** Essayer de le mettre en oeuvre 
 
+[![CStable Diffusion sur Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/stable_diffusion_CPE.ipynb) 
+
+
 **3.c** Comment peut on le fine-tuner ?
+
+**3.c** Proposer un "ipynb" simple et "pertinent" de mise en oeuvre 
+
 
 
