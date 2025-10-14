@@ -26,9 +26,11 @@ On s’intéresse au réseau suivant :
 
 **1.e** À quel moment est utilisé le dataset ?
 
-**1.f** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
+**1.f** Proposez un affichage plus pertinent des résultats 
 
-**1.g** Essayer d'appliquer sur le CIFAR10
+**1.g** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
+
+**1.h** Essayer d'appliquer sur le CIFAR10
 
 ---
 
@@ -47,10 +49,12 @@ Même type de questions pour le code suivant :
 
 **1.f** À quel moment est utilisé le dataset ?
 
-**1.g** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
+**1.g** Proposez un affichage plus pertinent des résultats 
 
-**1.h** Y a-t-il une différence entre les deux approches ?
+**1.h** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
 
-**1.i** Essayer d'appliquer sur le CIFAR10
+**1.i** Y a-t-il une différence entre les deux approches ?
+
+**1.h** Essayer d'appliquer sur le CIFAR10
 
 (BONUS) **1.j** Essayer d’utiliser le dataset Pokémon disponible sur Kaggle pour générer des Pokémon à la fois sur l'appriche VAE et l'approche GAN
