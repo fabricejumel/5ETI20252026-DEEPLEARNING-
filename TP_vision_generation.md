@@ -26,7 +26,7 @@ On s’intéresse au réseau suivant :
 
 **1.e** À quel moment est utilisé le dataset ?
 
-**1.f** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ?
+**1.f** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
 
 ---
 
@@ -45,7 +45,7 @@ Même question pour le code suivant :
 
 **1.e** À quel moment est utilisé le dataset ?
 
-**1.f** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ?
+**1.f** Comment pourrait-on mettre en œuvre un équivalent pour des visages ou des pizzas en utilisant la même architecture ? Quelle particularité pour le dataset ?
 
 **1.e** Y a-t-il une différence entre les deux approches ?
 
