@@ -64,7 +64,7 @@ Même type de questions pour le code suivant :
 
 ## Partie 3
 
-**3.a** Comment foncitonne stable diffuison ? Comment a t il était entrainé 
+**3.a** Comment fonctionne stable diffuison ? Comment a t il était entrainé 
 
 **3.b** Essayer de le mettre en oeuvre 
 
