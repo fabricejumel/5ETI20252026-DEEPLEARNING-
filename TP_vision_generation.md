@@ -6,7 +6,7 @@
 ## Question 1
 
 On s’intéresse au réseau suivant :  
-[GAN Fashion-MNIST sur Google Colab](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/2_0_GAN_fashion_mnist_CPE.ipynb) 
+[![Open GAN2.0 in  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/2_0_GAN_fashion_mnist_CPE.ipynb) 
 
 > [!CAUTION]
 > En cas de problème  d'excecution sur la fin,  utilisez une version ulterieure de tensorflow
