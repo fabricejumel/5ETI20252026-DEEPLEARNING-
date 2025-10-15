@@ -9,7 +9,7 @@
 
 ## 2. Question 2
 
-On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/hub/tutorials/tf2_object_détection.ipynb). 
+On s’intéresse à l’exemple suivant : [Exemple de détection d'objets avec TensorFlow Hub](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/tf2_object_detection_CPE.ipynb). 
 > [!TIP]
 >Commencer par changer le modele d'exécution pour utiliser un GPU, sinon vous risquez de perdre du temps
 
