@@ -72,7 +72,7 @@ Le but de ce code est de procéder à un *fine-tuning* du modèle.
 
 ## Question 6
 
-Proposer une liste de différents LLM utilisables pour faire deu finetuning,  quelles sont les caractéristqiues des machines nécessaires (minimum et idéal) pour les utiliser en inference et pour les fine tuner .
+Proposer une liste de différents LLM utilisables pour faire du finetuning,  quelles sont les caractéristqiues des machines nécessaires (minimum et idéal) pour les utiliser en inference et pour les fine tuner .
 
 ## Question 7 (Exploratoire)
 
