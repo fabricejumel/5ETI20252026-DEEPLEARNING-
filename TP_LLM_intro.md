@@ -2,6 +2,13 @@
 
 ---
 
+TODO // regarder le dataset de finetuning
+// tester le modle avant finetuning vs dataset
+// apres finetuning retester le modele
+
+// choisir un autre dataset si mieux
+
+
 ## Question 1
 > [!CAUTION]
 > Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer (profile/access_token/) un token, ce token doit être un
