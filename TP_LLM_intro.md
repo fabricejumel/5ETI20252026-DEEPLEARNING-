@@ -7,7 +7,7 @@
 > Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer (profile/access_token/) un token, ce token doit être un
 **TOKEN TYPE : WRITE*, et penser idéallement à le sauvegarder
 
-[Colab LLM Fine-tuning](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/DEEPLEARNING_Fine_tune_Llama_2_CPE.ipynb)
+[Colab LLM Fine-tuning](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/Fine_Tune_Your_Own_Llama_2_1B_LORA64_CPE.ipynb)
 
 [Tester son modele enregistré sous Hugging Face](https://colab.research.google.com/drive/1kVxUn5rvvetJzftgSiSUNtaNZTxnxkYq?usp=sharing)
 
