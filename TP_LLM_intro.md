@@ -89,6 +89,9 @@ Quelles sont les différentes outils proposés classiquement pour faire du finet
 
 Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conseillé pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
 
+## Question 9 (Exploratoire)
+
+Comment peut on representer le fonctionnement d'un LLM, de manière pertinente et imagé . Faites une proposition
 
 
 
