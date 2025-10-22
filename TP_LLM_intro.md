@@ -31,23 +31,26 @@
 
 **1.c** Quel est le nom du modèle de réseau sous-jacent ? Quelle est sa taille et son architecture ?
 
-**1.d** Le modèle est-il déjà entraîné ou est-ce simplement une structure de réseau ?
+**1.d** A quoi correspond le "Instruct" 
 
-**1.e** Si le modèle est déjà entraîné, sur quels datasets a-t-il été formé ?
+**1.e** Le modèle est-il déjà entraîné ou est-ce simplement une structure de réseau ?
 
-**1.f** Quelle puissance de calcul en TFlops a été nécessaire pour l'apprentissage initiale
+**1.f** Si le modèle est déjà entraîné, sur quels datasets a-t-il été formé ?
 
-**1.g** Qu’est-ce qu’un LoRA ? Expliquez ses 3 paramètres.
+**1.g** Quelle puissance de calcul en TFlops a été nécessaire pour l'apprentissage initiale
 
-**1.h** Qu’est-ce qu’un Transformer ? Expliquez son usage dans le cadre d’un LLM.
+**1.h** Qu’est-ce qu’un LoRA ? Expliquez ses 3 paramètres.
 
-**1.i** Si ce n’est pas déjà fait, lancez l’exécution de l’ensemble du code (cela prend environ 30 minutes).
+**1.i** Qu’est-ce qu’un Transformer ? Expliquez son usage dans le cadre d’un LLM.
+
+**1.j** Si ce n’est pas déjà fait, lancez l’exécution de l’ensemble du code (cela prend environ 30 minutes).
 
 ---
 
 ## Question 2
 
-En quoi consiste la notion de *token* ? Donnez des exemples de tokens dans notre cas.
+**2.a**  En quoi consiste la notion de *token* ? Donnez des exemples de tokens dans notre cas.
+**2.b** A quoi correspondent les embedded words dans ce modele  ?
 
 ---
 
@@ -59,11 +62,18 @@ Le but de ce code est de procéder à un *fine-tuning* du modèle.
 
 **3.b** Quel est le dataset utilisé ? Montrez des exemples et indiquez sa taille. Quelle puissance de calcul en TFlops a été nécessaire pour le *fine-tuning* ? A-t-on modifié la taille du modèle après apprentissage ?
 
+**3.c** Expliqueez pourquoi et comment le dataset a été modifié pour le finetuning
+
 ---
 
 ## Question 4
 
-**4.a** Testez différents prompts. Que pensez-vous de ses performances ? Comparez les résultats avec ChatGPT.
+
+**4.a** que pensez vous de l'évolution du "Loss" pednant l'apprentissage
+
+**4.b** Comment est il précisementcalculé, donné des exemples concrets
+
+**4.c** Testez différents prompts. Que pensez-vous de ses performances ? Comparez les résultats avec ChatGPT.
 
 ---
 
@@ -87,11 +97,11 @@ Quelles sont les différentes outils proposés classiquement pour faire du finet
 
 ## Question 8 (Exploratoire)
 
-Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conseillé pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
+Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle est la taille conseillée pour ce dataset. Montrez en quoi les résultats sont mauvais avant le *fine-tuning*, puis montrez le résultat après. Êtes-vous satisfait ?
 
 ## Question 9 (Exploratoire)
 
-Comment peut on representer le fonctionnement d'un LLM, de manière pertinente et imagé . Faites une proposition. Comment  représenter le avant/ après du finetuning
+Comment peut on representer le fonctionnement d'un LLM, de manière pertinente et imagée . Faites une proposition. Comment  représenter le avant / après du finetuning "graphiquement"
 
 
 
