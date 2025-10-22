@@ -8,7 +8,7 @@
 ## Question 1
 > [!CAUTION]
 > Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer (profile/access_token/) un token, ce token doit être un
-**TOKEN TYPE : WRITE*, et penser idéallement à le sauvegarder
+**TOKEN TYPE : WRITE*, et penser idéallement à le sauvegarder car vous ne pourrez plus le consulter
 >
 > Vous devrez aussi demander sur ce même compte, l'agrement à Meta  d'utiliser ce modele https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct. La procedure prend en general 30' avant accord de Meta
 
