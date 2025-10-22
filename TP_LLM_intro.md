@@ -10,7 +10,7 @@
 > Vous avez besoin de vous créer à un moment un compte sur hugginface et surtout de générer (profile/access_token/) un token, ce token doit être un
 **TOKEN TYPE : WRITE*, et penser idéallement à le sauvegarder car vous ne pourrez plus le consulter
 >
-> Vous devrez aussi demander sur ce même compte, l'agrement à Meta  d'utiliser ce modele https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct. La procedure prend en general 30' avant accord de Meta
+> Vous devrez aussi demander sur ce même compte, l'agrement à Meta  d'utiliser ce modele https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct. La procedure prend en general 30' avant accord de Meta
 
 [Colab LLM Fine-tuning](https://colab.research.google.com/github/fabricejumel/5ETI20252026-DEEPLEARNING-/blob/main/Fine_Tune_Llama_3_1B_LORA64_PIAF_CPE.ipynb)
 
