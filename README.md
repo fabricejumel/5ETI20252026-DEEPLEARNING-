@@ -38,7 +38,7 @@ TP 2 [TP detection avancee ](TP_vision_detection_suite.md)
 
 TP 3 [TP GAN ](TP_vision_generation.md)
 
-TP 4 [TP LLM ]() "A venir" 
+TP 4 [TP LLM ](TP_LLM_intro.md) 
 
 
 
