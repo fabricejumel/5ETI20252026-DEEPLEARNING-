@@ -91,7 +91,7 @@ Proposez un *fine-tuning* particulier en trouvant un dataset original. Quelle es
 
 ## Question 9 (Exploratoire)
 
-Comment peut on representer le fonctionnement d'un LLM, de manière pertinente et imagé . Faites une proposition
+Comment peut on representer le fonctionnement d'un LLM, de manière pertinente et imagé . Faites une proposition. Comment  représenter le avant/ après du finetuning
 
 
 
