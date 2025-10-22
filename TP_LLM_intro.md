@@ -35,11 +35,13 @@
 
 **1.e** Si le modèle est déjà entraîné, sur quels datasets a-t-il été formé ?
 
-**1.f** Qu’est-ce qu’un LoRA ? Expliquez ses 3 paramètres.
+**1.f** Quelle puissance de calcul en TFlops a été nécessaire pour l'apprentissage initiale
 
-**1.g** Qu’est-ce qu’un Transformer ? Expliquez son usage dans le cadre d’un LLM.
+**1.g** Qu’est-ce qu’un LoRA ? Expliquez ses 3 paramètres.
 
-**1.h** Si ce n’est pas déjà fait, lancez l’exécution de l’ensemble du code (cela prend environ 30 minutes).
+**1.h** Qu’est-ce qu’un Transformer ? Expliquez son usage dans le cadre d’un LLM.
+
+**1.i** Si ce n’est pas déjà fait, lancez l’exécution de l’ensemble du code (cela prend environ 30 minutes).
 
 ---
 
@@ -67,7 +69,7 @@ Le but de ce code est de procéder à un *fine-tuning* du modèle.
 
 ## Question 5
 
-**5.a** Refaites les tests en partant du même modèle sans le *fine-tuning*. Comment procéder ? Que pensez-vous de la différence ?
+**5.a** Refaites les tests en partant du même modèle sans le *fine-tuning*. 
 
 **5.b** Tester sur des exemples issus du dataset d'apprentissage
 
