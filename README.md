@@ -10,7 +10,7 @@
 > Le rendu se fera  sous forme d'un git sous gitlab en monome . 
 
 > [!CAUTION]
-> Le rendu doit être finalisé pour le lundi 3 novembre  2025 23H00 
+> Le rendu doit être finalisé pour le jeudi 6 novembre  2025 20H00 
 
 Si une partie de votre travail ce fait en local, il est recommandé de travailler dans un environnement virtuel (si fait en local et pas sur google collab)
 
