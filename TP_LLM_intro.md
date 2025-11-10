@@ -93,7 +93,7 @@ Proposer une liste de différents LLM utilisables pour faire du finetuning,  que
 
 ## Question 7 (Exploratoire)
 
-Quelles sont les différentes outils proposés classiquement pour faire du finetuning de LLM ?
+Quelles sont les différentes approches proposés classiquement pour faire du finetuning de LLM ?
 
 ## Question 8 (Exploratoire)
 
